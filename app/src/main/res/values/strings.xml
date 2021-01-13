@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NotificationExample</string>
+    <string name="text">"Wait...it's not over though! The whole purpose of the algorithm is to customize the runtime correctly. Imagine if the
+range increases from 1-15 to 1-100. The compiler will check each number to determine whether it is divisible by 3
+or 5. It would then run through the numbers again to check if the numbers are divisible by 3 and 5. The code would
+essentially have to run through each number in the array twice"</string>
+</resources>
